@@ -72,4 +72,4 @@ And finally, we run the query.
 
 `results = client.search body: search_params`
 
-Next, we'll look at fuzzy searching, auto completion and more advanced search options.
+Next, we'll look at fuzzy searching, faceted search, auto completion and more advanced search options.
